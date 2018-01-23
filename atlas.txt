@@ -1,0 +1,1544 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=10" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="format-detection" content="telephone=no">
+
+    <title>Lopez-Mejia, Amadalhy N (548635) - Student Profile - Fresno Unified School District</title>
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/Content/bootstrap/core?v=zGvX0d_U63t5Q9F3jsczr00eT_cxgcBq5P3vW2IeP0I1" rel="stylesheet"/>
+
+    <link href="/Content/themes/atlas/jquery?v=sxisUrIvmefzaN5HnR5kggQrHs1YrIgIIBEfPwRR29Q1" rel="stylesheet"/>
+
+    <link href="/Content/Site/fonts?v=" rel="stylesheet"/>
+
+    <link href="/Content/base/css?v=jScDwrFNVTTY8Msx2unz3MNXsyuVYMoXHvm9sEAs_eM1" rel="stylesheet"/>
+
+    
+    <link href="/Content/css/Profile?v=pF0suRDUpzA1hASVTQtOOixpgdmmQdAHZwRtYSTfh2I1" rel="stylesheet"/>
+
+    <link href="/Content/css/Tools/Cred?v=cr0QN58JYCCH-egAKpKrXwYYaCLg0iJS9f8x_4zOVZM1" rel="stylesheet"/>
+
+    
+
+    
+    <script src="/bundles/jquery?v=7ggIfIcNVWK5HjNpKh0211ELbNH7HpVrbOmz42dWfw41"></script>
+
+    
+    
+    <!--[if lt ie 9]>
+<script src="/bundles/atlasCompatibility?v=UpYDEdwSzs5HB1EVRwmdI_vH1FMIxYsVDkHSDUHPRjQ1"></script>
+        <script src="/bundles/html5shiv?v=7uf5GT-YM2VjrJxSyVBBRL5MPsKi6nCDZexfN0ZemMU1"></script>
+
+    <![endif]-->
+            <script>
+            (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-5156800-9', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+    
+<script type="text/javascript">
+    var appInsights = window.appInsights || function (config) {
+        function s(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, r = document, f = window, e = "script", o = r.createElement(e), i, u; for (o.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", r.getElementsByTagName(e)[0].parentNode.appendChild(o), t.cookie = r.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;) s("track" + i.pop()); return config.disableExceptionTracking || (i = "onerror", s("_" + i), u = f[i], f[i] = function (config, r, f, e, o) { var s = u && u(config, r, f, e, o); return s !== !0 && t["_" + i](config, r, f, e, o), s }), t
+    }({
+        instrumentationKey: "d946633a-8f80-4064-81c5-a48eb87414a2"
+    });
+
+    appInsights.appUserId = "venf@fresnou.org";    // the id of the logged-in user
+    appInsights.accountId = "548635"; // the account of the logged-in user
+
+    window.appInsights = appInsights;
+    appInsights.trackPageView();
+</script>
+</head>
+<body>
+    <div class="wrapper">
+        <div id="LayoutMenuArea">
+            
+<nav class="navbar navbar-inverse navbar-fixed-top atlas" role="menu">
+    <div class="container">
+        <div class="navbar-header">
+            <a href="/" style="display: block; float: left; height: 30px; position: relative; width: 40px; z-index: 1; padding: 3px 0;">
+                <!--[if IE]>
+                    <span style="position: absolute; width: 40px; height: 40px; visibility:hidden;" onload="this.style.visibility='visible';">
+                        <embed id="AtlasLogo" src="/Content/images/AtlasLogo.svg" class="navbar-brand brand-svg" style="pointer-events: none; display: inline-block; max-height: 40px; max-width:40px; position: relative; z-index: -1;"/>
+                    </span>
+                <![endif]-->
+                <!--[if !IE]>-->
+                <span style="position: absolute; width: 40px; height: 40px; display: none;">
+                    <embed id="AtlasLogo" src="/Content/images/AtlasLogo.svg" class="navbar-brand brand-svg" style="pointer-events: none; display: inline-block; max-height: 40px; max-width:40px; position: relative; z-index: -1" />
+                </span>
+                <script>$(document).ready(function () { $("#AtlasLogo").parent().show(); })</script>
+                <!--<![endif]-->
+            </a>
+        </div>
+
+        <ul class="navbar-icons nav navbar-nav">
+
+
+
+
+<li role="menuitem"><a class="" href="/Profile/548635/Strides" target="" title="Strides"><span class="glyphicons cardio white"><i></i></span><b>Strides</b></a></li> 
+
+
+
+<li role="menuitem"><a class="" href="/Profile/548635/Strides/Leaderboard" target="" title="Leaderboard"><span class="glyphicons cup white"><i></i></span><b>Leaderboard</b></a></li> 
+
+
+
+<li role="menuitem"><a class="" href="/Home/Links" target="" title="Links"><span class="glyphicons link white"><i></i></span><b>Links</b></a></li>         </ul>
+
+            <ul class="navbar-icons pull-right navbar-right nav navbar-nav">
+                <li class="dropdown">
+                    <a id="UserMenuDropDown" data-username="Amadalhy Lopez-Mejia" data-userid="548635" role="button" class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <div id="LoggedInWrap">
+                            <div id="LoggedInIcon"><span class="glyphicons cogwheels white"><i></i></span></div>
+                            <div id="LoggedInUserInfo" class="">
+                                <span id="LoggedInName" data-userid="548635">Amadalhy Lopez-Mejia</span>
+
+                                                            </div>
+                            <div id="LoggedInCaret"><b class="caret"></b></div>
+                        </div>
+                    </a>
+                    <ul role="menu" class="dropdown-menu" id="UserDropDownMenu">
+
+
+
+
+<li role="menuitem"><a href="/SecretQuestionAnswer" target="">Account Security</a></li>                                                     <li class="divider"></li>
+
+                        <li id="Login">
+                            <a href="/Home/SignOut">Sign Out</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+    </div>
+</nav>
+
+            
+
+
+            <nav class="navbar navbar-default navbar-submenu navbar-static-top">
+                <div class="container">
+                    
+                </div>
+            </nav>
+            
+            
+        </div>
+        <div id="LayoutBodyArea" class="container">
+            
+
+
+
+<div class="row">
+    <div id="ProfileSummary" class="col-md-3 col-sm-4 noKPI">
+        <div data-spy="affix" style="margin-left:0">
+
+            <div id="MiniProfileContainer" class="hidden-xs">
+                
+
+<div class="working-group-target clearfix miniprofile thumbnail">
+<div class="well clearfix" title="Lopez-Mejia, Amadalhy N">
+    <h5 class="studentname pull-left">
+        <span class="" title="">
+    Lopez-Mejia, Amadalhy N
+</span>
+
+
+        
+
+    </h5>
+        <div class="pull-right miniProfileBadges">
+                <span class="glyphicons clock good hidden-print" data-html="true" title="&lt;h4&gt;Good&lt;/h4&gt;&lt;ul class=&#39;list-unstyled&#39; style=&#39;text-align: left;&#39;&gt;&lt;li&gt;Daily Attendance Rate: 99% Good&lt;/li&gt;&lt;li&gt;Class Period Absence Rate: 2% Good&lt;/li&gt;&lt;/ul&gt;" data-trigger="hover focus" data-placement="bottom" data-ui-fn="tooltip" data-container="#LayoutBodyArea" href="/Profile/548635/Attendance" data-template="<div class='tooltip miniProfileIconTooltip' role='tooltip'><div class='tooltip-arrow'></div><div class='tooltip-inner'></div></div>"><i>&nbsp;</i></span>
+                            <span class="halflings book C hidden-print" title="Simple GPA: 3.00" data-trigger="hover focus" data-placement="bottom" data-ui-fn="tooltip" data-container="#LayoutBodyArea" href="/Profile/548635/Grades"><i>&nbsp;</i></span>
+        </div>
+</div>
+
+<div class='clearfix'>
+        <div class="student-image-container">           
+            <a class="pull-left" href="/Profile/548635/Summary">
+                <img src="/Image/Student/0548635" class="img-rounded" alt="Amadalhy Naudiahy Lopez-Mejia">
+
+            </a>
+        </div>
+
+    <ul class="list-unstyled pull-left">
+        
+        <li class="studentid">548635</li>
+        <li>Patino</li>
+        <li id="studentDoB" title="Date of Birth: 11/3/2000">17 years old</li>
+        <li id="StudentGradeLevelID" title="Class of 2018" data-gradelevel="12">
+            Twelfth Grade
+        </li>
+    </ul>
+
+    
+    <div class="pull-right extraInfoDiv">
+    </div>
+</div>
+
+<div class='clearfix hidden-print'>
+    <div class="pull-left">
+    </div>
+    <div class="pull-right miniprofileActionMenu">
+    </div>
+</div>
+
+</div>
+            </div>
+
+            
+
+            <div id="scrollablePane" class="hidden-xs">
+
+<div class="panel-group atlas-sidenav hidden-print">
+        <div class="panel panel-primary ">
+            <a class="panel-title active" href="/Profile/548635/Summary">
+                <span class="atlas-icons profile_male">
+                    <i>&nbsp;</i>
+                </span>
+                
+Summary
+                    <span class="halflings chevron-right pull-right">
+                        <i>&nbsp;</i>
+                    </span>
+            </a>
+        </div>
+        <div class="panel panel-default ">
+            <a class="panel-title " href="/Profile/548635/Strides">
+                <span class="glyphicons cardio">
+                    <i>&nbsp;</i>
+                </span>
+                
+Strides
+            </a>
+        </div>
+        <div class="panel panel-default ">
+            <a class="panel-title " href="/Profile/548635/Assessments">
+                <span class="glyphicons stats">
+                    <i>&nbsp;</i>
+                </span>
+                
+Assessments
+            </a>
+        </div>
+        <div class="panel panel-default ">
+            <a class="panel-title " href="/Profile/548635/Attendance">
+                <span class="glyphicons clock">
+                    <i>&nbsp;</i>
+                </span>
+                
+Attendance
+            </a>
+        </div>
+        <div class="panel panel-default ">
+            <a class="panel-title " href="/Profile/548635/Grades">
+                <span class="glyphicons book">
+                    <i>&nbsp;</i>
+                </span>
+                
+Grades
+            </a>
+        </div>
+</div>
+                
+                
+
+
+    <div class="panel panel-default showcaseCreds" style="margin-top: 10px; margin-bottom: 10px;">
+        <div class="panel-heading" style="padding: 5px 10px;">
+            <b>Showcase</b>
+            <a class="pull-right" href="/Profile/548635/Strides/Cred" title="View all 20">View All</a>
+        </div>
+        <div class="panel-body" style="padding: 0;">
+            <ul class="first_row canEditCreds" style="list-style-type: none; margin: 4px 0px; padding: 0;">
+                
+
+
+
+
+    <li style="float: left; width: 25%; height: 50px;">
+        
+
+
+
+<div>
+    <div class="atlasCredCard" data-credID="15">
+        <div class="atlasCredfront small" title="Atlas Explorer">
+            <img src="/Tools/Cred/SmallCred/15?q=636203416284000000" />
+        </div>
+        <div class="backContainer">
+            <div class="atlasCredback">
+    <h2 class="well well-sm visible-xs">Atlas Explorer</h2>
+    <div class="backImgContainer">
+        <img src="/Tools/Cred/LargeCred/15?q=636203416284000000" />
+        <div class="caption" style="height: 60px;">
+                <span class="badge badge-info" style="margin: 0 auto; display: table;" title="Most recently earned on 10/30/2017">Earned 6 times</span>
+
+            <div style="text-align:center; margin-top: 5px;">
+                <a href="#" class="showcaseButton"></a>
+            </div>
+        </div>
+    </div>
+    <div class="details">
+        <h2 class="well well-sm hidden-xs">Atlas Explorer</h2>
+            <p style="margin-bottom: 10px; font-style: italic;">An experienced adventurer is a great explorer.</p>
+
+            <p style="margin-bottom: 20px;">You logged into Atlas 15 school days in a row during the quarter.</p>
+
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 2</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">10/30/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">9/20/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2016-2017 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">9/27/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">11/15/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">1/31/2017</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">4/18/2017</span>
+                            </div>
+
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    </li>
+    <li style="float: left; width: 25%; height: 50px;">
+        
+
+
+
+<div>
+    <div class="atlasCredCard" data-credID="16">
+        <div class="atlasCredfront small" title="Cartographer">
+            <img src="/Tools/Cred/SmallCred/16?q=636203416425030000" />
+        </div>
+        <div class="backContainer">
+            <div class="atlasCredback">
+    <h2 class="well well-sm visible-xs">Cartographer</h2>
+    <div class="backImgContainer">
+        <img src="/Tools/Cred/LargeCred/16?q=636203416425030000" />
+        <div class="caption" style="height: 60px;">
+                <span class="badge badge-info" style="margin: 0 auto; display: table;" title="Most recently earned on 11/15/2017">Earned 5 times</span>
+
+            <div style="text-align:center; margin-top: 5px;">
+                <a href="#" class="showcaseButton"></a>
+            </div>
+        </div>
+    </div>
+    <div class="details">
+        <h2 class="well well-sm hidden-xs">Cartographer</h2>
+            <p style="margin-bottom: 10px; font-style: italic;">Your familiarity with Atlas has made you a cartographer, time to map out your future.</p>
+
+            <p style="margin-bottom: 20px;">You logged into Atlas 25 school days in a row during the quarter.</p>
+
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 2</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">11/15/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">10/4/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2016-2017 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">12/6/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">2/16/2017</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">5/2/2017</span>
+                            </div>
+
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    </li>
+    <li style="float: left; width: 25%; height: 50px;">
+        
+
+
+
+<div>
+    <div class="atlasCredCard" data-credID="20">
+        <div class="atlasCredfront small" title="Going The Distance">
+            <img src="/Tools/Cred/SmallCred/20?q=636203428376230000" />
+        </div>
+        <div class="backContainer">
+            <div class="atlasCredback">
+    <h2 class="well well-sm visible-xs">Going The Distance</h2>
+    <div class="backImgContainer">
+        <img src="/Tools/Cred/LargeCred/20?q=636203428376230000" />
+        <div class="caption" style="height: 60px;">
+                <span class="badge badge-info" style="margin: 0 auto; display: table;" title="Most recently earned on 11/15/2017">Earned 6 times</span>
+
+            <div style="text-align:center; margin-top: 5px;">
+                <a href="#" class="showcaseButton"></a>
+            </div>
+        </div>
+    </div>
+    <div class="details">
+        <h2 class="well well-sm hidden-xs">Going The Distance</h2>
+            <p style="margin-bottom: 10px; font-style: italic;">In physics d(distance) = t(time)*v(velocity), therefore the greater the time the greater the distance.  By being on time and present everyday simple physics tells you that you&#39;re going to go far!
+</p>
+
+            <p style="margin-bottom: 20px;">You attended class for 25 days in a row during the quarter.</p>
+
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 2</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">11/15/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">9/18/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2016-2017 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">9/19/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">11/16/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">2/16/2017</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">5/2/2017</span>
+                            </div>
+
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    </li>
+    <li style="float: left; width: 25%; height: 50px;">
+        
+
+
+
+<div>
+    <div class="atlasCredCard" data-credID="21">
+        <div class="atlasCredfront small" title="Perfect Quarter">
+            <img src="/Tools/Cred/SmallCred/21?q=636203428432900000" />
+        </div>
+        <div class="backContainer">
+            <div class="atlasCredback">
+    <h2 class="well well-sm visible-xs">Perfect Quarter</h2>
+    <div class="backImgContainer">
+        <img src="/Tools/Cred/LargeCred/21?q=636203428432900000" />
+        <div class="caption" style="height: 60px;">
+                <span class="badge badge-info" style="margin: 0 auto; display: table;" title="Most recently earned on 3/20/2017">Earned 3 times</span>
+
+            <div style="text-align:center; margin-top: 5px;">
+                <a href="#" class="showcaseButton"></a>
+            </div>
+        </div>
+    </div>
+    <div class="details">
+        <h2 class="well well-sm hidden-xs">Perfect Quarter</h2>
+            <p style="margin-bottom: 10px; font-style: italic;">You went an entire quarter without being marked absent. That takes skills!</p>
+
+            <p style="margin-bottom: 20px;">You attended class every day for the quarter.</p>
+
+                <h5 style="clear:both; margin: 5px 0;">2016-2017 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">10/10/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">12/16/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">3/20/2017</span>
+                            </div>
+
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    </li>
+
+            </ul>
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3 col-sm-4 visible-xs" style="margin-bottom: 5px;">
+        <div>
+
+
+<div class="btn-group hidden-print" style="width: 100%; float:none;">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="width: 100%">
+        <span class="pull-left">
+            
+Summary
+        </span>
+        <span class="caret pull-right" style="position: relative; top: 5px;"></span>
+    </button>
+    <ul class="dropdown-menu" style="width: 100%;">
+                <li>
+                    <a href="/Profile/548635/Summary">
+                        
+Summary
+                    </a>
+                </li>
+                <li>
+                    <a href="/Profile/548635/Strides">
+                        
+Strides
+                    </a>
+                </li>
+                <li>
+                    <a href="/Profile/548635/Assessments">
+                        
+Assessments
+                    </a>
+                </li>
+                <li>
+                    <a href="/Profile/548635/Attendance">
+                        
+Attendance
+                    </a>
+                </li>
+                <li>
+                    <a href="/Profile/548635/Grades">
+                        
+Grades
+                    </a>
+                </li>
+    </ul>
+</div>
+
+        </div>
+        
+
+
+    <div class="panel panel-default showcaseCreds" style="margin-top: 10px; margin-bottom: 10px;">
+        <div class="panel-heading" style="padding: 5px 10px;">
+            <b>Showcase</b>
+            <a class="pull-right" href="/Profile/548635/Strides/Cred" title="View all 20">View All</a>
+        </div>
+        <div class="panel-body" style="padding: 0;">
+            <ul class="first_row canEditCreds" style="list-style-type: none; margin: 4px 0px; padding: 0;">
+                
+
+
+
+
+    <li style="float: left; width: 25%; height: 50px;">
+        
+
+
+
+<div>
+    <div class="atlasCredCard" data-credID="15">
+        <div class="atlasCredfront small" title="Atlas Explorer">
+            <img src="/Tools/Cred/SmallCred/15?q=636203416284000000" />
+        </div>
+        <div class="backContainer">
+            <div class="atlasCredback">
+    <h2 class="well well-sm visible-xs">Atlas Explorer</h2>
+    <div class="backImgContainer">
+        <img src="/Tools/Cred/LargeCred/15?q=636203416284000000" />
+        <div class="caption" style="height: 60px;">
+                <span class="badge badge-info" style="margin: 0 auto; display: table;" title="Most recently earned on 10/30/2017">Earned 6 times</span>
+
+            <div style="text-align:center; margin-top: 5px;">
+                <a href="#" class="showcaseButton"></a>
+            </div>
+        </div>
+    </div>
+    <div class="details">
+        <h2 class="well well-sm hidden-xs">Atlas Explorer</h2>
+            <p style="margin-bottom: 10px; font-style: italic;">An experienced adventurer is a great explorer.</p>
+
+            <p style="margin-bottom: 20px;">You logged into Atlas 15 school days in a row during the quarter.</p>
+
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 2</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">10/30/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">9/20/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2016-2017 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">9/27/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">11/15/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">1/31/2017</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">4/18/2017</span>
+                            </div>
+
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    </li>
+    <li style="float: left; width: 25%; height: 50px;">
+        
+
+
+
+<div>
+    <div class="atlasCredCard" data-credID="16">
+        <div class="atlasCredfront small" title="Cartographer">
+            <img src="/Tools/Cred/SmallCred/16?q=636203416425030000" />
+        </div>
+        <div class="backContainer">
+            <div class="atlasCredback">
+    <h2 class="well well-sm visible-xs">Cartographer</h2>
+    <div class="backImgContainer">
+        <img src="/Tools/Cred/LargeCred/16?q=636203416425030000" />
+        <div class="caption" style="height: 60px;">
+                <span class="badge badge-info" style="margin: 0 auto; display: table;" title="Most recently earned on 11/15/2017">Earned 5 times</span>
+
+            <div style="text-align:center; margin-top: 5px;">
+                <a href="#" class="showcaseButton"></a>
+            </div>
+        </div>
+    </div>
+    <div class="details">
+        <h2 class="well well-sm hidden-xs">Cartographer</h2>
+            <p style="margin-bottom: 10px; font-style: italic;">Your familiarity with Atlas has made you a cartographer, time to map out your future.</p>
+
+            <p style="margin-bottom: 20px;">You logged into Atlas 25 school days in a row during the quarter.</p>
+
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 2</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">11/15/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">10/4/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2016-2017 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">12/6/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">2/16/2017</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">5/2/2017</span>
+                            </div>
+
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    </li>
+    <li style="float: left; width: 25%; height: 50px;">
+        
+
+
+
+<div>
+    <div class="atlasCredCard" data-credID="20">
+        <div class="atlasCredfront small" title="Going The Distance">
+            <img src="/Tools/Cred/SmallCred/20?q=636203428376230000" />
+        </div>
+        <div class="backContainer">
+            <div class="atlasCredback">
+    <h2 class="well well-sm visible-xs">Going The Distance</h2>
+    <div class="backImgContainer">
+        <img src="/Tools/Cred/LargeCred/20?q=636203428376230000" />
+        <div class="caption" style="height: 60px;">
+                <span class="badge badge-info" style="margin: 0 auto; display: table;" title="Most recently earned on 11/15/2017">Earned 6 times</span>
+
+            <div style="text-align:center; margin-top: 5px;">
+                <a href="#" class="showcaseButton"></a>
+            </div>
+        </div>
+    </div>
+    <div class="details">
+        <h2 class="well well-sm hidden-xs">Going The Distance</h2>
+            <p style="margin-bottom: 10px; font-style: italic;">In physics d(distance) = t(time)*v(velocity), therefore the greater the time the greater the distance.  By being on time and present everyday simple physics tells you that you&#39;re going to go far!
+</p>
+
+            <p style="margin-bottom: 20px;">You attended class for 25 days in a row during the quarter.</p>
+
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 2</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">11/15/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2017-2018 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">9/18/2017</span>
+                            </div>
+                <h5 style="clear:both; margin: 5px 0;">2016-2017 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">9/19/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">11/16/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">2/16/2017</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">5/2/2017</span>
+                            </div>
+
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    </li>
+    <li style="float: left; width: 25%; height: 50px;">
+        
+
+
+
+<div>
+    <div class="atlasCredCard" data-credID="21">
+        <div class="atlasCredfront small" title="Perfect Quarter">
+            <img src="/Tools/Cred/SmallCred/21?q=636203428432900000" />
+        </div>
+        <div class="backContainer">
+            <div class="atlasCredback">
+    <h2 class="well well-sm visible-xs">Perfect Quarter</h2>
+    <div class="backImgContainer">
+        <img src="/Tools/Cred/LargeCred/21?q=636203428432900000" />
+        <div class="caption" style="height: 60px;">
+                <span class="badge badge-info" style="margin: 0 auto; display: table;" title="Most recently earned on 3/20/2017">Earned 3 times</span>
+
+            <div style="text-align:center; margin-top: 5px;">
+                <a href="#" class="showcaseButton"></a>
+            </div>
+        </div>
+    </div>
+    <div class="details">
+        <h2 class="well well-sm hidden-xs">Perfect Quarter</h2>
+            <p style="margin-bottom: 10px; font-style: italic;">You went an entire quarter without being marked absent. That takes skills!</p>
+
+            <p style="margin-bottom: 20px;">You attended class every day for the quarter.</p>
+
+                <h5 style="clear:both; margin: 5px 0;">2016-2017 - Quarter 1</h5>
+                            <div class="clearfix" style="margin-bottom: 15px;">
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">10/10/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">12/16/2016</span>
+                                    <span class="badge badge-default pull-left" style="margin: 0 5px 5px 0; font-size: 10px;">3/20/2017</span>
+                            </div>
+
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+    </li>
+
+            </ul>
+        </div>
+    </div>
+
+    </div>
+
+    <div class="col-md-9 col-sm-8 profile-body">
+        
+<div id="ConsoleDashboard" class="clearfix container" data-dashboardname="StudentProfile" data-dashboardschool="128">
+    
+    
+    <div id="ConsoleMessages">
+        <div>
+            <div style="display: none;" data-bind="foreach: { data: DashboardMessages, afterRender: onRendered, afterAdd: onItemAdded, beforeRemove: onItemRemoved }" id="RealTimeMessages">
+                <div class="alert consoleMessage clearfix" data-bind="attr: { id: 'DashboardMessage' + DashboardMessageID() }, css: AlertClass">
+                    <!-- ko if: IconClass -->
+                    <p class="glyphicons pull-left" data-bind="css: IconClass"><i></i></p>
+                    <!-- /ko -->
+                    <!-- ko if: IsDismissable -->
+                    <a data-bind="click: Dismiss" class="close">&times;</a>
+                    <!-- /ko -->
+                    <h4 id="MessageTitle" data-bind="text: Title"></h4>
+                    <div id="MessageMessage" data-bind="html: Message"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        
+
+
+<div id="SummaryTabPanel">
+        <div class="row clearfix" style="margin-bottom: 15px;">
+            <div class="col-md-4 col-sm-6">
+                <div class="clearfix">
+                    <h4>Emergency Contact</h4>
+                </div>
+                <div id="Contact">
+                        <ul class="list-unstyled" style="margin-bottom: 0;">
+                                <li>
+                                    <span>Mother: </span>
+                                    <span><a href="tel:+(559) 577-6877" style="white-space: nowrap;">(559) 577-6877</a></span>
+                                </li>
+                                <li>
+                                    <span>Grandparent: </span>
+                                    <span><a href="tel:+(559) 360-5869" style="white-space: nowrap;">(559) 360-5869</a></span>
+                                </li>
+                        </ul>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="clearfix">
+                    <h4>Home Language</h4>
+                </div>
+                <div>
+                        <em class="text-muted">Not Provided</em>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="clearfix">
+                    <h4>Address</h4>
+                </div>
+                <div>
+                        <address style="margin-bottom: 0;">
+                            1301 N San Pablo Ave<br />
+
+
+                            Fresno, CA 93728-2036<br />
+                        </address>
+                </div>
+            </div>
+        </div>
+
+    <div class="row">
+        <div class="col-md-12">
+                <div class="row clearfix">
+                    <div class="col-md-12">
+                        <div class="row-fluid clearfix">
+                            <div class="col-sm-6" style="padding-left: 0;">
+                                <h4>Current Schedule at Patino Entrepreneurship High</h4>
+                            </div>
+                                <div class="col-sm-6" style="padding-left: 0; padding-right: 0">
+                                    <h5 id="CounselorName" style="margin-top:11px; ">
+                                        Counselor: <a href="mailto:Kirsten.Krejcik@fresnounified.org" data-message-to="Kirsten.Krejcik@fresnounified.org">Krejcik, Kirsten</a>
+                                    </h5>
+                                </div>
+                        </div>
+                            <table class="table table-condensed table-striped table-bordered" style="margin-bottom: 4px;">
+        <thead>
+            <tr>
+                <th><span class="hidden-xs">Period</span></th>
+                <th>Course Name</th>
+                <th>
+                    <span class="hidden-xs">Room</span>
+                    <span class="visible-xs">Rm</span>
+                </th>
+                <th>Instructor</th>
+                <th class="hidden-xs">Course</th>
+                    <th class="center"><abbr class="hidden-print" title="Unexcused Absences">A</abbr><abbr class="visible-print">A</abbr></th>
+                    <th class="center"><abbr class="hidden-print" title="Unexcused Tardies">T</abbr><abbr class="visible-print">T</abbr></th>
+                                    <th class="center visible-print" style="width:70px"><span>%</span></th>
+                    <th class="center">
+                        <span class="hidden-xs hidden-print">Grade</span>
+                        <span class="visible-print">Grade</span>
+                    </th>
+                
+            </tr>
+        </thead>
+        <tbody>
+                <tr data-sectionid="823248">
+                    <td>01</td>
+                    <td data-type="courseName">Economics</td>
+                    <td>300</td>
+                    <td><a href="mailto:Sue.Gularte@fresnounified.org" data-message-to="Sue.Gularte@fresnounified.org">S. Gularte</a></td>
+
+                    <td class="hidden-xs">2520ECNG</td>
+
+                        <td class="center">0</td>
+                        <td class="center">0</td>
+
+                        <td class="center visible-print"><span>90.00 %</span></td>
+                        <td class="center">
+
+<span class="A badge-grade badge" data-atlas-unobtrusive="Tooltip" data-container="body" data-html="true" title="90.00 % as of 1/23/2018">
+A-
+</span></td>
+
+                </tr>
+                <tr data-sectionid="752192">
+                    <td>02</td>
+                    <td data-type="courseName">English IV Accelerator H</td>
+                    <td>300</td>
+                    <td><a href="mailto:Lisa.Hamby@fresnounified.org" data-message-to="Lisa.Hamby@fresnounified.org">L. Hamby</a></td>
+
+                    <td class="hidden-xs">1145ELAB</td>
+
+                        <td class="center">1</td>
+                        <td class="center">0</td>
+
+                        <td class="center visible-print"><span>100.00 %</span></td>
+                        <td class="center">
+
+<span class="A-plus badge-grade badge" data-atlas-unobtrusive="Tooltip" data-container="body" data-html="true" title="100.00 % as of 1/22/2018">
+A+
+</span></td>
+
+                </tr>
+                <tr data-sectionid="752272">
+                    <td>03</td>
+                    <td data-type="courseName">CollSuppSeminar(NoGrade)</td>
+                    <td>201</td>
+                    <td><a href="mailto:Alice.Binger@fresnounified.org" data-message-to="Alice.Binger@fresnounified.org">A. Binger</a></td>
+
+                    <td class="hidden-xs">7756---X</td>
+
+                        <td class="center">1</td>
+                        <td class="center">0</td>
+
+                        <td class="center visible-print"><span></span></td>
+                        <td class="center">
+
+<span class="- badge-grade badge">
+-
+</span></td>
+
+                </tr>
+                <tr data-sectionid="752244">
+                    <td>04</td>
+                    <td data-type="courseName">AP Research</td>
+                    <td>300</td>
+                    <td><a href="mailto:Lisa.Hamby@fresnounified.org" data-message-to="Lisa.Hamby@fresnounified.org">L. Hamby</a></td>
+
+                    <td class="hidden-xs">7027ELEG</td>
+
+                        <td class="center">2</td>
+                        <td class="center">0</td>
+
+                        <td class="center visible-print"><span>100.00 %</span></td>
+                        <td class="center">
+
+<span class="A-plus badge-grade badge" data-atlas-unobtrusive="Tooltip" data-container="body" data-html="true" title="100.00 % as of 1/22/2018">
+A+
+</span></td>
+
+                </tr>
+                <tr data-sectionid="752234">
+                    <td>05</td>
+                    <td data-type="courseName">Business Startup Accel</td>
+                    <td>300</td>
+                    <td><a href="mailto:Michael.Padilla@fresnounified.org" data-message-to="Michael.Padilla@fresnounified.org">M. Padilla</a></td>
+
+                    <td class="hidden-xs">7308ELEG</td>
+
+                        <td class="center">1</td>
+                        <td class="center">0</td>
+
+                        <td class="center visible-print"><span>66.67 %</span></td>
+                        <td class="center">
+
+<span class="D badge-grade badge" data-atlas-unobtrusive="Tooltip" data-container="body" data-html="true" title="66.67 % as of 1/17/2018">
+D
+</span></td>
+
+                </tr>
+                <tr data-sectionid="752218">
+                    <td>06</td>
+                    <td data-type="courseName">Probability &amp; Statistics</td>
+                    <td>300</td>
+                    <td><a href="mailto:Paige.Parker@fresnounified.org" data-message-to="Paige.Parker@fresnounified.org">P. Parker</a></td>
+
+                    <td class="hidden-xs">4220MATC</td>
+
+                        <td class="center">1</td>
+                        <td class="center">0</td>
+
+                        <td class="center visible-print"><span></span></td>
+                        <td class="center">
+
+<span class="- badge-grade badge">
+-
+</span></td>
+
+                </tr>
+                <tr data-sectionid="752132">
+                    <td>07</td>
+                    <td data-type="courseName">Advisory</td>
+                    <td>300</td>
+                    <td><a href="mailto:Michael.Padilla@fresnounified.org" data-message-to="Michael.Padilla@fresnounified.org">M. Padilla</a></td>
+
+                    <td class="hidden-xs">7625---X</td>
+
+                        <td class="center">0</td>
+                        <td class="center">0</td>
+
+                        <td class="center visible-print"><span></span></td>
+                        <td class="center">
+
+<span class="- badge-grade badge">
+-
+</span></td>
+
+                </tr>
+                <tr data-sectionid="752256">
+                    <td>09</td>
+                    <td data-type="courseName">Advisory</td>
+                    <td>OFC</td>
+                    <td><a href="mailto:Blair.Eliason@fresnounified.org" data-message-to="Blair.Eliason@fresnounified.org">B. Sagardia</a></td>
+
+                    <td class="hidden-xs">7625---X</td>
+
+                        <td class="center">0</td>
+                        <td class="center">0</td>
+
+                        <td class="center visible-print"><span></span></td>
+                        <td class="center">
+
+<span class="- badge-grade badge">
+-
+</span></td>
+
+                </tr>
+
+        </tbody>
+            <tfoot>
+                <tr>
+                    <th colspan="8" style="text-align: right;">
+                        <span title="Simple GPA is an unweighted GPA based on all calculated grades from Gradebook data for the current grading period.">Simple GPA: </span>
+                        3.00
+                    </th>
+                </tr>
+            </tfoot>
+    </table>
+            <small style="margin-bottom: 20px; display: block;">
+                <strong>* Note</strong>: The grades shown above, if present, are the current calculated grades from Gradebook.
+        Teachers can override these calculated grades with final marked grades.
+        The grades shown are not to be interpreted as final or transcript grades for the course.
+        If the grades above aren&#39;t what you expect as your final grade, please contact the appropriate teacher.
+        The Simple GPA at the bottom of the current schedule is calculated nightly.
+            </small>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="clearfix">
+                    <h4 style="margin-bottom: 0;">Current Attendance - Last 45 Days</h4>
+                </div>
+                
+    <div id="StudentAttendanceMosaic" data-initalscrolldate="1/23/2018" data-initalzoom="23.3793"  class=" supressTransitions fade">
+        <h5 id="AttendanceSliderLabel" class="hidden-xs">&nbsp;</h5>
+        <div id="AttendanceMosaicSlider"></div>
+        <div class="table-container">
+            <div class="att-table">
+                <div class="att-thead">
+                    <!--SPECIAL NOTE:  The proper formatting of anything inside of a div.att-tr element is critical. You MUST ensure you do not introduce any extra white space between elements. If you do, the alignment of the divs will not match up.-->
+                    <div class="att-tr">
+                        <div class="att-th frozen"><div><span class="pull-left">Course Name</span><a class="pull-right" href="#" id="ZoomButton" title="Switch to Scroll" data-isscrolllocked="False">Zoom</a></div></div>
+<div class="att-th"  data-att-date="1/23/2018" title="Tuesday, January 23, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Tue 1/23</div></div></div><div class="att-th"  data-att-date="1/22/2018" title="Monday, January 22, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Mon 1/22</div></div></div><div class="att-th"  data-att-date="1/19/2018" title="Friday, January 19, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Fri 1/19</div></div></div><div class="att-th"  data-att-date="1/18/2018" title="Thursday, January 18, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Thu 1/18</div></div></div><div class="att-th"  data-att-date="1/17/2018" title="Wednesday, January 17, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Wed 1/17</div></div></div><div class="att-th"  data-att-date="1/16/2018" title="Tuesday, January 16, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Tue 1/16</div></div></div><div class="att-th"  data-att-date="1/12/2018" title="Friday, January 12, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Fri 1/12</div></div></div><div class="att-th"  data-att-date="1/11/2018" title="Thursday, January 11, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Thu 1/11</div></div></div><div class="att-th"  data-att-date="1/10/2018" title="Wednesday, January 10, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Wed 1/10</div></div></div><div class="att-th"  data-att-date="1/9/2018" title="Tuesday, January 9, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Tue 1/9</div></div></div><div class="att-th"  data-att-date="1/8/2018" title="Monday, January 8, 2018"><div class="container" style="width: 23.3793px;"><div class="rotate">Mon 1/8</div></div></div><div class="att-th"  data-att-date="12/15/2017" title="Friday, December 15, 2017"><div class="container" style="width: 23.3793px;"><div class="rotate">Fri 12/15</div></div></div><div class="att-th"  data-att-date="12/14/2017" title="Thursday, December 14, 2017"><div class="container" style="width: 23.3793px;"><div class="rotate">Thu 12/14</div></div></div><div class="att-th"  data-att-date="12/13/2017" title="Wednesday, December 13, 2017"><div class="container" style="width: 23.3793px;"><div class="rotate">Wed 12/13</div></div></div><div class="att-th"  data-att-date="12/12/2017" title="Tuesday, December 12, 2017"><div class="container" style="width: 23.3793px;"><div class="rotate">Tue 12/12</div></div></div><div class="att-th"  data-att-date="12/11/2017" title="Monday, December 11, 2017"><div class="container" style="width: 23.3793px;"><div class="rotate">Mon 12/11</div></div></div>                    </div>
+                </div>
+                <div class="att-tbody">
+                    <!--SPECIAL NOTE:  The proper formatting of anything inside of a div.att-tr element is critical. You MUST ensure you do not introduce any extra white space between elements. If you do, the alignment of the divs will not match up.-->
+                        <div class="att-tr">
+                            <div class="att-td frozen" title="American Government at Patino Entrepreneurship High in Room 300">01 American Government</div>
+<div class="att-td deny" data-att-date="1/23/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/23/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/22/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/22/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/19/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/19/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/18/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/18/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/17/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/17/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/16/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/16/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/12/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/12/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/11/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/11/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/10/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/10/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/9/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/9/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="1/8/2018" data-periodid="9642" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-studentid="548635" title="Student is not enrolled in this class on 1/8/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td present    " data-att-date="12/15/2017" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/15/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/14/2017" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/14/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/13/2017" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/13/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/12/2017" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/12/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/11/2017" data-coursename="American Government" data-studentsectionid="15191814" data-sectionid="752250" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/11/2017"><div class="container" style="width: 23.3793px;">P</div></div>                        </div>
+                        <div class="att-tr">
+                            <div class="att-td frozen" title="Economics at Patino Entrepreneurship High in Room 300">01 Economics</div>
+<div class="att-td present    " data-att-date="1/23/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/23/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/22/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/22/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/19/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/19/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/18/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/18/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/17/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/17/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/16/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/16/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/12/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/12/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/11/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/11/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/10/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/10/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/9/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/9/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/8/2018" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-attendance-code="P" data-periodid="9642" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/8/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td deny" data-att-date="12/15/2017" data-periodid="9642" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-studentid="548635" title="Student is not enrolled in this class on 12/15/2017"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="12/14/2017" data-periodid="9642" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-studentid="548635" title="Student is not enrolled in this class on 12/14/2017"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="12/13/2017" data-periodid="9642" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-studentid="548635" title="Student is not enrolled in this class on 12/13/2017"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="12/12/2017" data-periodid="9642" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-studentid="548635" title="Student is not enrolled in this class on 12/12/2017"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td deny" data-att-date="12/11/2017" data-periodid="9642" data-coursename="Economics" data-studentsectionid="16621662" data-sectionid="823248" data-studentid="548635" title="Student is not enrolled in this class on 12/11/2017"><div class="container" style="width: 23.3793px;">-</div></div>                        </div>
+                        <div class="att-tr">
+                            <div class="att-td frozen" title="English IV Accelerator H at Patino Entrepreneurship High in Room 300">02 English IV Accelerator H</div>
+<div class="att-td present    " data-att-date="1/23/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/23/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/22/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/22/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/19/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/19/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/18/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="E" data-periodid="9644" data-studentid="548635" style="background-color: #1F78B4; color: #FFFFFF;" title="School Business - 1/18/2018"><div class="container" style="width: 23.3793px;">E</div></div><div class="att-td present    " data-att-date="1/17/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/17/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/16/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/16/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/12/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/12/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/11/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/11/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/10/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/10/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/9/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/9/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/8/2018" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/8/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/15/2017" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/15/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/14/2017" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/14/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/13/2017" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/13/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/12/2017" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/12/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/11/2017" data-coursename="English IV Accelerator H" data-studentsectionid="15191806" data-sectionid="752192" data-attendance-code="P" data-periodid="9644" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/11/2017"><div class="container" style="width: 23.3793px;">P</div></div>                        </div>
+                        <div class="att-tr">
+                            <div class="att-td frozen" title="CollSuppSeminar(NoGrade) at Patino Entrepreneurship High in Room 201">03 CollSuppSeminar(NoGrade)</div>
+<div class="att-td" data-att-date="1/23/2018" data-periodid="9646" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-studentid="548635" data-attendance-code="" style="background-color: #CCCCCC" title="Attendance Not Recorded - 1/23/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td present    " data-att-date="1/22/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/22/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/19/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/19/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/18/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="E" data-periodid="9646" data-studentid="548635" style="background-color: #1F78B4; color: #FFFFFF;" title="School Business - 1/18/2018"><div class="container" style="width: 23.3793px;">E</div></div><div class="att-td present    " data-att-date="1/17/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/17/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/16/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/16/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/12/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/12/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/11/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/11/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/10/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/10/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/9/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/9/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/8/2018" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/8/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/15/2017" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/15/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/14/2017" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/14/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/13/2017" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/13/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/12/2017" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/12/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/11/2017" data-coursename="CollSuppSeminar(NoGrade)" data-studentsectionid="15191818" data-sectionid="752272" data-attendance-code="P" data-periodid="9646" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/11/2017"><div class="container" style="width: 23.3793px;">P</div></div>                        </div>
+                        <div class="att-tr">
+                            <div class="att-td frozen" title="AP Research at Patino Entrepreneurship High in Room 300">04 AP Research</div>
+<div class="att-td" data-att-date="1/23/2018" data-periodid="9648" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-studentid="548635" data-attendance-code="" style="background-color: #CCCCCC" title="Attendance Not Recorded - 1/23/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td present    " data-att-date="1/22/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/22/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/19/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/19/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/18/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="E" data-periodid="9648" data-studentid="548635" style="background-color: #1F78B4; color: #FFFFFF;" title="School Business - 1/18/2018"><div class="container" style="width: 23.3793px;">E</div></div><div class="att-td present    " data-att-date="1/17/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/17/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/16/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/16/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/12/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/12/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/11/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/11/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/10/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/10/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/9/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/9/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/8/2018" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/8/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/15/2017" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/15/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/14/2017" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/14/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/13/2017" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/13/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/12/2017" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/12/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/11/2017" data-coursename="AP Research" data-studentsectionid="15191812" data-sectionid="752244" data-attendance-code="P" data-periodid="9648" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/11/2017"><div class="container" style="width: 23.3793px;">P</div></div>                        </div>
+                        <div class="att-tr">
+                            <div class="att-td frozen" title="Business Startup Accel at Patino Entrepreneurship High in Room 300">05 Business Startup Accel</div>
+<div class="att-td" data-att-date="1/23/2018" data-periodid="9650" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-studentid="548635" data-attendance-code="" style="background-color: #CCCCCC" title="Attendance Not Recorded - 1/23/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td present    " data-att-date="1/22/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/22/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/19/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/19/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/18/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="E" data-periodid="9650" data-studentid="548635" style="background-color: #1F78B4; color: #FFFFFF;" title="School Business - 1/18/2018"><div class="container" style="width: 23.3793px;">E</div></div><div class="att-td present    " data-att-date="1/17/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/17/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/16/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/16/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/12/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/12/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/11/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/11/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/10/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/10/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/9/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/9/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/8/2018" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/8/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/15/2017" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/15/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/14/2017" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/14/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/13/2017" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/13/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/12/2017" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/12/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/11/2017" data-coursename="Business Startup Accel" data-studentsectionid="15191810" data-sectionid="752234" data-attendance-code="P" data-periodid="9650" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/11/2017"><div class="container" style="width: 23.3793px;">P</div></div>                        </div>
+                        <div class="att-tr">
+                            <div class="att-td frozen" title="Probability &amp; Statistics at Patino Entrepreneurship High in Room 300">06 Probability &amp; Statistics</div>
+<div class="att-td" data-att-date="1/23/2018" data-periodid="9652" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-studentid="548635" data-attendance-code="" style="background-color: #CCCCCC" title="Attendance Not Recorded - 1/23/2018"><div class="container" style="width: 23.3793px;">-</div></div><div class="att-td present    " data-att-date="1/22/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/22/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/19/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/19/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/18/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="E" data-periodid="9652" data-studentid="548635" style="background-color: #1F78B4; color: #FFFFFF;" title="School Business - 1/18/2018"><div class="container" style="width: 23.3793px;">E</div></div><div class="att-td present    " data-att-date="1/17/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/17/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/16/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/16/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/12/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/12/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/11/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/11/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/10/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/10/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/9/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/9/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="1/8/2018" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 1/8/2018"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/15/2017" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/15/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/14/2017" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/14/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/13/2017" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/13/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/12/2017" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/12/2017"><div class="container" style="width: 23.3793px;">P</div></div><div class="att-td present    " data-att-date="12/11/2017" data-coursename="Probability &amp; Statistics" data-studentsectionid="15191808" data-sectionid="752218" data-attendance-code="P" data-periodid="9652" data-studentid="548635" style="background-color: #FFFFFF; color: #3A3A3A;" title="Present - 12/11/2017"><div class="container" style="width: 23.3793px;">P</div></div>                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script src="/bundles/profile/StudentAttendanceMosaic?v=EhoZOwXyAh7xDB40iXY4uIJa5Zc2ZfJlON2jvRwnzgM1"></script>
+
+
+
+            </div>
+        </div>
+
+
+
+        <div class="row" id="SummaryGPACollection">
+            <div class="col-md-12">
+                <div class="clearfix">
+                    <h4>Grade Point Averages</h4>
+                </div>
+                <div class="fluidTable container-fluid fluidTableBordered">
+                    <div class="row fluidTableHeader">
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-2 fluidTableCell">Type</div>
+                                <div class="col-md-1 fluidTableCell">GPA</div>
+                                <div class="col-md-2 fluidTableCell">School Year</div>
+                                <div class="col-md-3 fluidTableCell">Grading Period</div>
+                                <div class="col-md-4 fluidTableCell" style="min-width: 190px;">GPA History</div>
+                            </div>
+                        </div>
+                    </div>
+
+                        <div class="row fluidTableRow">
+                            <div class="col-md-12">
+                                <div class="row">
+
+                                    <div class="col-md-2 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Type:</strong>
+                                        </div>
+                                            <span><abbr title="Academic GPA is not augmented and is calculated using grades earned during the most recently completed grading period and excludes grades of I, N, P, E, W, and &#39; &#39; (blank). It also excludes grades for courses with a CreditFlag value of 2 (see Course Master) as well as grades for waived or repeated courses.">Academic</abbr></span>
+
+                                    </div>
+
+                                    <div class="col-md-1 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Grade Point Averages:</strong>
+                                        </div>
+                                        4.00
+                                    </div>
+                                    <div class="col-md-2 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>School Year:</strong>
+                                        </div>
+                                        2017-2018
+                                    </div>
+                                    <div class="col-md-3 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Grading Period:</strong>
+                                        </div>
+                                        Semester 1
+                                    </div>
+                                    <div class="col-md-4 fluidTableCell" style="min-width: 190px; padding-top: 0; padding-bottom: 0;">
+                                        <div class="visible-xs" style="display: block; float: left; width: 5px;">&nbsp;</div>
+                                            <div style="height: 31px; line-height: 31px; display: inline-block">
+        2011
+        <span id="gpaSpark548635106" ></span>
+        2018
+    </div>
+    <script type="text/javascript">
+    $(document).ready(function () {
+
+        Atlas.Charts.KnockoutChart({
+            chartType: "SparkLine",
+            elementId: "gpaSpark548635106",
+            height: "20px",
+            width: "100px",
+            LoadingText: "Loading",
+            data: {
+                "chart": _.defaults({
+                    "bgAlpha": "0",
+                    "showLabels": "0",
+                    "showValues": "0",
+                    "caption": "",
+                    "setAdaptiveyMin": "1",
+                    "drawAnchors": "0",
+                    "showOpenAnchor": "1",
+                    "showCloseAnchor": "1",
+                    "showHighAnchor": "1",
+                    "showLowAnchor": "1",
+                    "showopenvalue": "0",
+                    "showclosevalue": "0",
+                    "showhighlowvalue": "0",
+                    "anchorSides": "2",
+                    "anchorRadius": "2",
+                    "yAxisMinValue": '0',
+                    "yAxisMaxValue": '4',
+                    "chartLeftMargin": "5",
+                    "chartRightMargin": "5",
+                    "chartTopMargin": "3",
+                    "chartBottomMargin": "3",
+                    "anchorBorderThickness": "0"
+                }, Atlas.Charts.DefaultChartObject),
+                "dataset": [
+                    {
+                        "data": [
+                            [{"value":4.00},{"value":3.25},{"value":3.50},{"value":3.00},{"value":3.67},{"value":3.50},{"value":3.83},{"value":4.00},{"value":3.60},{"value":3.80},{"value":4.00},{"value":3.81},{"value":3.83},{"value":3.45},{"value":3.55},{"value":3.85},{"value":3.67},{"value":3.83},{"value":3.88},{"value":3.88},{"value":4.00},{"value":3.67},{"value":3.83},{"value":3.83},{"value":4.00},{"value":4.00}]
+                        ][0]
+                    }
+                ]
+            }
+        });
+    });
+    </script>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row fluidTableRow">
+                            <div class="col-md-12">
+                                <div class="row">
+
+                                    <div class="col-md-2 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Type:</strong>
+                                        </div>
+                                            <span><abbr title="Eligibility GPA is calculated using grades earned during the most recently completed grading period and excludes letter grades of N, E, W, and &#39; &#39; (blank). It also excludes grades for courses with a CreditFlag value of 1 (see Course Master) and grades for waived or repeated courses.">Eligibility</abbr></span>
+
+                                    </div>
+
+                                    <div class="col-md-1 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Grade Point Averages:</strong>
+                                        </div>
+                                        4.00
+                                    </div>
+                                    <div class="col-md-2 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>School Year:</strong>
+                                        </div>
+                                        2017-2018
+                                    </div>
+                                    <div class="col-md-3 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Grading Period:</strong>
+                                        </div>
+                                        Semester 1
+                                    </div>
+                                    <div class="col-md-4 fluidTableCell" style="min-width: 190px; padding-top: 0; padding-bottom: 0;">
+                                        <div class="visible-xs" style="display: block; float: left; width: 5px;">&nbsp;</div>
+                                            <div style="height: 31px; line-height: 31px; display: inline-block">
+        2011
+        <span id="gpaSpark548635102" ></span>
+        2018
+    </div>
+    <script type="text/javascript">
+    $(document).ready(function () {
+
+        Atlas.Charts.KnockoutChart({
+            chartType: "SparkLine",
+            elementId: "gpaSpark548635102",
+            height: "20px",
+            width: "100px",
+            LoadingText: "Loading",
+            data: {
+                "chart": _.defaults({
+                    "bgAlpha": "0",
+                    "showLabels": "0",
+                    "showValues": "0",
+                    "caption": "",
+                    "setAdaptiveyMin": "1",
+                    "drawAnchors": "0",
+                    "showOpenAnchor": "1",
+                    "showCloseAnchor": "1",
+                    "showHighAnchor": "1",
+                    "showLowAnchor": "1",
+                    "showopenvalue": "0",
+                    "showclosevalue": "0",
+                    "showhighlowvalue": "0",
+                    "anchorSides": "2",
+                    "anchorRadius": "2",
+                    "yAxisMinValue": '0',
+                    "yAxisMaxValue": '4',
+                    "chartLeftMargin": "5",
+                    "chartRightMargin": "5",
+                    "chartTopMargin": "3",
+                    "chartBottomMargin": "3",
+                    "anchorBorderThickness": "0"
+                }, Atlas.Charts.DefaultChartObject),
+                "dataset": [
+                    {
+                        "data": [
+                            [{"value":4.00},{"value":3.25},{"value":3.50},{"value":3.00},{"value":3.71},{"value":3.57},{"value":3.86},{"value":4.00},{"value":3.67},{"value":3.83},{"value":4.00},{"value":3.84},{"value":3.86},{"value":3.54},{"value":3.62},{"value":3.87},{"value":3.71},{"value":3.86},{"value":3.89},{"value":3.89},{"value":4.00},{"value":3.67},{"value":3.83},{"value":3.83},{"value":4.00},{"value":4.00}]
+                        ][0]
+                    }
+                ]
+            }
+        });
+    });
+    </script>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row fluidTableRow">
+                            <div class="col-md-12">
+                                <div class="row">
+
+                                    <div class="col-md-2 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Type:</strong>
+                                        </div>
+                                            <span><abbr title="Cumulative Academic GPA (Grades 10-12) is calculated using all transcript grades earned during grade level span">Cumulative</abbr></span>
+
+                                    </div>
+
+                                    <div class="col-md-1 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Grade Point Averages:</strong>
+                                        </div>
+                                        3.88
+                                    </div>
+                                    <div class="col-md-2 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>School Year:</strong>
+                                        </div>
+                                        2017-2018
+                                    </div>
+                                    <div class="col-md-3 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Grading Period:</strong>
+                                        </div>
+                                        Semester 1
+                                    </div>
+                                    <div class="col-md-4 fluidTableCell" style="min-width: 190px; padding-top: 0; padding-bottom: 0;">
+                                        <div class="visible-xs" style="display: block; float: left; width: 5px;">&nbsp;</div>
+                                            <div style="height: 31px; line-height: 31px; display: inline-block">
+        2010
+        <span id="gpaSpark548635100" ></span>
+        2018
+    </div>
+    <script type="text/javascript">
+    $(document).ready(function () {
+
+        Atlas.Charts.KnockoutChart({
+            chartType: "SparkLine",
+            elementId: "gpaSpark548635100",
+            height: "20px",
+            width: "100px",
+            LoadingText: "Loading",
+            data: {
+                "chart": _.defaults({
+                    "bgAlpha": "0",
+                    "showLabels": "0",
+                    "showValues": "0",
+                    "caption": "",
+                    "setAdaptiveyMin": "1",
+                    "drawAnchors": "0",
+                    "showOpenAnchor": "1",
+                    "showCloseAnchor": "1",
+                    "showHighAnchor": "1",
+                    "showLowAnchor": "1",
+                    "showopenvalue": "0",
+                    "showclosevalue": "0",
+                    "showhighlowvalue": "0",
+                    "anchorSides": "2",
+                    "anchorRadius": "2",
+                    "yAxisMinValue": '0',
+                    "yAxisMaxValue": '4',
+                    "chartLeftMargin": "5",
+                    "chartRightMargin": "5",
+                    "chartTopMargin": "3",
+                    "chartBottomMargin": "3",
+                    "anchorBorderThickness": "0"
+                }, Atlas.Charts.DefaultChartObject),
+                "dataset": [
+                    {
+                        "data": [
+                            [{"value":0.00},{"value":3.11},{"value":3.16},{"value":3.16},{"value":3.14},{"value":3.71},{"value":3.64},{"value":3.71},{"value":3.79},{"value":3.76},{"value":3.78},{"value":3.81},{"value":3.81},{"value":3.55},{"value":3.55},{"value":3.71},{"value":3.88},{"value":3.88},{"value":3.88},{"value":3.88},{"value":3.86},{"value":3.86},{"value":3.86},{"value":3.86},{"value":3.88}]
+                        ][0]
+                    }
+                ]
+            }
+        });
+    });
+    </script>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row fluidTableRow">
+                            <div class="col-md-12">
+                                <div class="row">
+
+                                    <div class="col-md-2 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Type:</strong>
+                                        </div>
+                                            <span><abbr title="Augmented Academic GPA (Grades 10-12) is calculated using all transcript grades earned in grade 10 and above and excludes letter grades of I, N, P, E, W, and &#39; &#39; (blank). It also excludes grades for courses with a CreditFlag value of 2 (see Course Master) and grades for waived or repeated courses. It is an augmented GPA, meaning that .04 credit is added to the non-augmented GPA for each AP or Honors course for which the student has received a letter grade of C or better up to a maximum augmented GPA of 4.32.">Augmented</abbr></span>
+
+                                    </div>
+
+                                    <div class="col-md-1 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Grade Point Averages:</strong>
+                                        </div>
+                                        4.20
+                                    </div>
+                                    <div class="col-md-2 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>School Year:</strong>
+                                        </div>
+                                        2017-2018
+                                    </div>
+                                    <div class="col-md-3 fluidTableCell">
+                                        <div class="fluidTableCellLabel">
+                                            <strong>Grading Period:</strong>
+                                        </div>
+                                        Semester 1
+                                    </div>
+                                    <div class="col-md-4 fluidTableCell" style="min-width: 190px; padding-top: 0; padding-bottom: 0;">
+                                        <div class="visible-xs" style="display: block; float: left; width: 5px;">&nbsp;</div>
+                                            <div style="height: 31px; line-height: 31px; display: inline-block">
+        2015
+        <span id="gpaSpark548635104" ></span>
+        2018
+    </div>
+    <script type="text/javascript">
+    $(document).ready(function () {
+
+        Atlas.Charts.KnockoutChart({
+            chartType: "SparkLine",
+            elementId: "gpaSpark548635104",
+            height: "20px",
+            width: "100px",
+            LoadingText: "Loading",
+            data: {
+                "chart": _.defaults({
+                    "bgAlpha": "0",
+                    "showLabels": "0",
+                    "showValues": "0",
+                    "caption": "",
+                    "setAdaptiveyMin": "1",
+                    "drawAnchors": "0",
+                    "showOpenAnchor": "1",
+                    "showCloseAnchor": "1",
+                    "showHighAnchor": "1",
+                    "showLowAnchor": "1",
+                    "showopenvalue": "0",
+                    "showclosevalue": "0",
+                    "showhighlowvalue": "0",
+                    "anchorSides": "2",
+                    "anchorRadius": "2",
+                    "yAxisMinValue": '0',
+                    "yAxisMaxValue": '4',
+                    "chartLeftMargin": "5",
+                    "chartRightMargin": "5",
+                    "chartTopMargin": "3",
+                    "chartBottomMargin": "3",
+                    "anchorBorderThickness": "0"
+                }, Atlas.Charts.DefaultChartObject),
+                "dataset": [
+                    {
+                        "data": [
+                            [{"value":3.88},{"value":3.88},{"value":3.92},{"value":3.96},{"value":4.14},{"value":4.14},{"value":4.18},{"value":4.18},{"value":4.20}]
+                        ][0]
+                    }
+                ]
+            }
+        });
+    });
+    </script>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                </div>
+            </div>
+        </div>
+
+</div>
+
+    </div>
+</div>
+        </div>
+        <div class="push">
+            <!--/used to push the footer to the bottom/-->
+        </div>
+        <div class="modal fade" id="AtlasModal" style="display:none; padding: 20px;">
+            <div id="AtlasModalBody" class="modal-body"></div>
+            <div id="AtlasModalLoading" class="loading"></div>
+        </div>
+    </div>
+    <footer>
+        <nav class="navbar navbar-inverse">
+            <p id="copyright">&copy; Fresno Unified School District 2018</p>
+                    <p class='version' title='Version 17.3.3.40' data-version='17.3.3.40' data-intervalfreq='1800000'>&#960;</p>
+        </nav>
+    </footer>
+
+    <script id="tmplKnockoutPager" type="text/html">
+    <nav data-bind="visible: _.size(Pages()) > 1, css: $data.PagerCss" style="text-align: center; white-space: nowrap;">
+        <ul class="pagination pagination-centered">
+            <li data-bind="visible: TotalPages() > LimitPages(), css: { disabled: _.contains(LimitedPages(), 1) }">
+                <a class="halflings fast-backward" href="#" data-bind="click: FirstPage, disable: _.contains(LimitedPages(), 1)" title="Jump to first page">
+                    <i>&nbsp;</i>
+                </a>
+            </li>
+            <li data-bind="css: { disabled: parseInt(CurrentPage(), 10) <= 1 }">
+                <a class="halflings arrow-left" href="#" data-bind="click: PreviousPage" title="Previous page">
+                    <i>&nbsp;</i>
+                </a>
+            </li>
+            <!-- ko foreach: LimitedPages -->
+            <li data-bind="css: { active: $data == $parent.CurrentPage() }">
+                <a href="#" data-bind="text: Atlas.Utils.NumberWithCommas($data), click: function (item, event) { $parent.JumpToPage($data, event); }"></a>
+            </li>
+            <!-- /ko -->
+            <li data-bind="css: { disabled: parseInt(CurrentPage(), 10) >= TotalPages() }">
+                <a class="halflings arrow-right" href="#" data-bind="click: NextPage" title="Next page">
+                    <i>&nbsp;</i>
+                </a>
+            </li>
+            <li data-bind="visible: TotalPages() > LimitPages(), css: { disabled: _.contains(LimitedPages(), TotalPages()) }">
+                <a class="halflings fast-forward" href="#" data-bind="disable: _.contains(LimitedPages(), TotalPages()), click: LastPage" title="Jump to last page">
+                    <i>&nbsp;</i>
+                </a>
+            </li>
+        </ul>
+        <div style="margin-top:5px;">
+            <!-- ko with: { CurrentPage: CurrentPage() - 1, ItemsPerPage: ItemsPerPage(), TotalItems: TotalItems() } -->
+            <span data-bind="text: Atlas.Utils.NumberWithCommas(CurrentPage * ItemsPerPage + 1)"></span> to
+            <span data-bind="text: CurrentPage * ItemsPerPage + ItemsPerPage > ko.unwrap(TotalItems) ? Atlas.Utils.NumberWithCommas(ko.unwrap(TotalItems)) : Atlas.Utils.NumberWithCommas(CurrentPage * ItemsPerPage + ItemsPerPage)"></span> of
+            <!-- /ko -->
+            <span data-bind="text: Atlas.Utils.NumberWithCommas(ko.unwrap(TotalItems))"></span>
+            <span data-bind="text: $data.ItemName || 'results'"></span>
+        </div>
+    </nav>
+</script>
+    <script src="/bundles/Core?v=dBtcxj1rrYLYocl3VypWxXt0uLjyEbKAWQ95Z8LZaVU1"></script>
+
+    <script src="/bundles/miniProfile?v=EaeLCrJjNQrUE7Wfj7liszCzF_y6NkpadlqSnhP8FtU1"></script>
+
+    
+    <script src="/Scripts/FusionChartsXT/FusionCharts.js"></script>
+
+    <script src="/bundles/Charts?v=NwYzyRWMX5h9kjb7z0oSW0CERGcm_cku7h0nbg8VxnA1"></script>
+
+    <script src="/bundles/profile/Profile?v=L8nR9f6jjL23DHsXPYJkzJZzqjXIIx4yHP7PV8avNsE1"></script>
+
+    <script src="/bundles/perfectScrollbar?v=1-TnPeV1AQFKvxo6PeY4tU_7PH5CqhJnIKA3WpEXgwA1"></script>
+
+    <script src="/bundles/Tools/Cred?v=N_xXids8nZ9lBwjHzeVmc0fxeWf65LV92SuYWkt62ug1"></script>
+
+    
+
+
+</body>
+</html>
